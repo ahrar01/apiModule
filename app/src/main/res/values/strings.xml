@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">apiModule</string>
+
+    <string-array name="dataSets">
+        <item>Electronics and IT Production</item>
+        <item>Location wise daily Ambient Air Quality of Delhi</item>
+
+    </string-array>
 </resources>
